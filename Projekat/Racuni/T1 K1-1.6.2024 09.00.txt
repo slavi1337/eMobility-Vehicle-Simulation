@@ -1,0 +1,20 @@
+Korisnik [ime=K1, idDokumenta=6RK742NGG, brojVozacke=1O7HGJBRO]
+====================================
+ID vozila: T1
+Pocetni % baterije: 100%
+Krajnji % baterije: 70%
+Početno vreme: 1.6.2024 09:00:00
+Krajnje vreme: 1.6.2024 09:00:05
+====================================
+Početna lokacija:  [X=0, Y=0]
+Krajnja lokacija:  [X=7, Y=8]
+Dužina: 15
+Trajanje: 5
+Prolazak kroz siri dio grada?Da
+Osnovna cijena (UNIT_PRICE * VRIJEME_TRAJANJA): 25.00
+Iznos (Osnovna_cijena * DIST): 125.0
+Popust: 0.00
+Promocija: 3.75
+====================================
+Ukupni iznos: 121.25
+Kvar: Nema

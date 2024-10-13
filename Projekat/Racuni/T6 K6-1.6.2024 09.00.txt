@@ -1,0 +1,20 @@
+Korisnik [ime=K6, idDokumenta=O1746R641, brojVozacke=STK8R6SZ2]
+====================================
+ID vozila: T6
+Pocetni % baterije: 100%
+Krajnji % baterije: 88%
+Početno vreme: 1.6.2024 09:00:00
+Krajnje vreme: 1.6.2024 09:00:20
+====================================
+Početna lokacija:  [X=19, Y=19]
+Krajnja lokacija:  [X=16, Y=16]
+Dužina: 6
+Trajanje: 20
+Prolazak kroz siri dio grada?Da
+Osnovna cijena (UNIT_PRICE * VRIJEME_TRAJANJA): 0.00
+Iznos (Osnovna_cijena * DIST): 0.0
+Popust: 0.00
+Promocija: 0.00
+====================================
+Ukupni iznos: 0.0
+Kvar [opis=Pokvarena baterija, datumVremeKvara=2024-06-01T09:00]

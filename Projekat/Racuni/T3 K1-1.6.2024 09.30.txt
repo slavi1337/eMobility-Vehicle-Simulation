@@ -1,0 +1,20 @@
+Korisnik [ime=K1, idDokumenta=MCMJA48WL, brojVozacke=JL5ZACA0T]
+====================================
+ID vozila: T3
+Pocetni % baterije: 100%
+Krajnji % baterije: 90%
+Početno vreme: 1.6.2024 09:30:00
+Krajnje vreme: 1.6.2024 09:30:14
+====================================
+Početna lokacija:  [X=14, Y=17]
+Krajnja lokacija:  [X=9, Y=17]
+Dužina: 5
+Trajanje: 14
+Prolazak kroz siri dio grada?Da
+Osnovna cijena (UNIT_PRICE * VRIJEME_TRAJANJA): 70.00
+Iznos (Osnovna_cijena * DIST): 350.0
+Popust: 0.00
+Promocija: 0.00
+====================================
+Ukupni iznos: 350.0
+Kvar: Nema

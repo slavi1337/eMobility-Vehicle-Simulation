@@ -1,0 +1,20 @@
+Korisnik [ime=K4, idDokumenta=J37H3UKYY, brojVozacke=K2YM6EOLS]
+====================================
+ID vozila: T4
+Pocetni % baterije: 100%
+Krajnji % baterije: 70%
+Početno vreme: 1.6.2024 09:00:00
+Krajnje vreme: 1.6.2024 09:00:05
+====================================
+Početna lokacija:  [X=0, Y=0]
+Krajnja lokacija:  [X=7, Y=8]
+Dužina: 15
+Trajanje: 5
+Prolazak kroz siri dio grada?Da
+Osnovna cijena (UNIT_PRICE * VRIJEME_TRAJANJA): 0.00
+Iznos (Osnovna_cijena * DIST): 0.0
+Popust: 0.00
+Promocija: 0.00
+====================================
+Ukupni iznos: 0.0
+Kvar [opis=Pokvarena baterija, datumVremeKvara=2024-06-01T09:00]

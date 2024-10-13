@@ -1,0 +1,20 @@
+Korisnik [ime=K2, idDokumenta=LW3J5RJ9R, brojVozacke=GZSV0W1G5]
+====================================
+ID vozila: A3
+Pocetni % baterije: 100%
+Krajnji % baterije: 76%
+Početno vreme: 1.6.2024 09:30:00
+Krajnje vreme: 1.6.2024 09:30:08
+====================================
+Početna lokacija:  [X=15, Y=15]
+Krajnja lokacija:  [X=17, Y=17]
+Dužina: 4
+Trajanje: 8
+Prolazak kroz siri dio grada?Da
+Osnovna cijena (UNIT_PRICE * VRIJEME_TRAJANJA): 80.00
+Iznos (Osnovna_cijena * DIST): 400.0
+Popust: 0.00
+Promocija: 0.00
+====================================
+Ukupni iznos: 400.0
+Kvar: Nema
